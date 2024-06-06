@@ -578,19 +578,19 @@ header .navbar ul li a:hover{
   background: #3d10dd;
 }
 .skills .container .col .bar .php:before{
-  width: 84%;
+  width: 70%;
   background: #8054c7;
 }
 .skills .container .col .bar .mysql:before{
-  width: 97%;
+  width: 50%;
   background: #f38b03;
 }
 .skills .container .col .bar .reactjs:before{
-  width: 55%;
+  width: 70%;
   background: #2962ff;
 }
 .skills .container .col .bar .java:before{
-  width: 88%;
+  width: 50%;
   background: #ce0505;
 }
 .skills .container .col .bar .python:before{
